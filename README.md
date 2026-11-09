@@ -1,2 +1,2 @@
 # ramito-de-violetaa
-proyecto para la realización de mi pagina web
+Este es el repositorio  para la realización de mi pagina web
